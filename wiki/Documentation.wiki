@@ -2,5 +2,5 @@ Documentation abut RLint
 
 = Slides =
 
-* <a href="http://research.mtv.corp.google.com:4444/pubversion?fp=525415807987355280">
+* <a href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42577.pdf">
 R User Conference 2014-07-02 slides (PDF)</a>
