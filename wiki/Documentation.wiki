@@ -2,5 +2,6 @@ Documentation abut RLint
 
 = Slides =
 
-* <a href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42577.pdf">
-R User Conference 2014-07-02 slides (PDF)</a>
+R User Conference 2014-07-02 slides deck is available at 
+* <a href="http://research.google.com/">
+Research at Google</a>.
